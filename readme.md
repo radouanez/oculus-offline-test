@@ -1,4 +1,4 @@
-# Offline-test (Node.js + Express + postgreSql)
+# Offline-test (Node.js + Express + PostgreSQL)
 This an offline test.
 # Environment vars
 This project uses the following environment variables:
