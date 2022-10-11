@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "server": {
+      "port": 3000
+    }
+  },
+  "int": {
+    "server": {
+      "port": 3000
+    }
+  },
+  "prod": {
+    "server": {
+      "port": 8080
+    }
+  }
+}
